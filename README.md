@@ -1,2 +1,2 @@
-# Türkçe - İngilizce Sözlük
-Android için Türkçe - İngilizce sözlük veritabanı uygulaması
+# TÃ¼rkÃ§e - Ä°ngilizce SÃ¶zlÃ¼k
+Android iÃ§in TÃ¼rkÃ§e - Ä°ngilizce sÃ¶zlÃ¼k veritabanÃ½ uygulamasÃ½
